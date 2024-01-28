@@ -1,4 +1,4 @@
-<h1>Suryam</h1>
+# Suryam Sourya
 
 - 👋 Hi, I’m @suryam-sourya
 - Computer Science and Engineering student with a keen interest in DevOps, showcasing software development and web development expertise, and a solid foundation in Java core, JavaScript, and NodeJS. We have a proven track record in internships and projects.
