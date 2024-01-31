@@ -3,7 +3,7 @@
 
 <h2>About Me : </h2>
 <h3>Pursuing Bachelor of Engineering (B.E.) in Computer Science from Sathyabama Institute of Science and Technology.</h3>
-<be>
+</br>
 <h3>Computer Science and Engineering student with a keen interest in DevOps, showcasing
 expertise in software development, and web development and with a solid foundation in Java core,
 JavaScript and NodeJS. Proven track record in internships and projects</h3>
@@ -22,7 +22,9 @@ JavaScript and NodeJS. Proven track record in internships and projects</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suryam-sourya&label=Profile%20views&color=0e75b6&style=flat" alt="suryam-sourya" /> </p>
 
 <h2>skills</h2>
-<h3>: Java core, HTML5, CSS, JavaScript, Linux, MongoDB, Azure
+<h3>Technical skills
+</br>
+Java core, HTML5, CSS, JavaScript, Linux, MongoDB, Azure
 fundamental, Virtual Machines, Bootstrap, Azure Monitor. </h3>
 <!-- bages and trophy
 <h2> More About Me : </h2>
