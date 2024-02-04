@@ -19,7 +19,7 @@ JavaScript and NodeJS. Proven track record in internships and projects</h3>
 - 😄 Pronouns: **He/Him**
 <!-- - ⚡ Fun fact:  -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suryam-sourya&label=Profile%20views&color=0e75b6&style=flat" alt="suryam-sourya" /> </p>
+<p align="center"> <img src= "https://komarev.com/ghpvc/?username=suryam-sourya&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <h2>skills</h2>
 <h3>Technical skills
