@@ -13,7 +13,7 @@ JavaScript and NodeJS. Proven track record in internships and projects</h3>
 
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Open Source**
-- 🤔 I’m looking for help with **Azure DevOps and Development**
+- 🤔 I’m looking for help with **Azure and AWS DevOps and Development**
 - 💬 Ask me about **Git & GitHub**
 - 📫 How to reach me: **sourya@suryams.co.in** 
 - 😄 Pronouns: **He/Him**
